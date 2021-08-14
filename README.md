@@ -1,16 +1,14 @@
-# my_business_card_flutter_app
+# My Business Card
 
-My Business Card
+This Flutter app allows you to update your personal details to create a business card in a mobile friendly UI and deploy it on both android and iOS play store.
 
-## Getting Started
+<img align="right"  src="/images/my-business-card-android-app-ui.png" height="400">
 
-This project is a starting point for a Flutter application.
+## Local Setup
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+* IntelliJ/Android Studio IDE
+* AVD Android Simulator Manager
+* Android SDK
+* Flutter SDK + IDE Plugin
+* DART SDK + IDE Plugin
