@@ -52,7 +52,6 @@ flutter:
     - family: Pacifico
       fonts:
         - asset: fonts/Pacifico-Regular.ttf
-    #           style: italic
     - family: Source Sans Pro
       fonts:
         - asset: fonts/SourceSansPro-Regular.ttf
