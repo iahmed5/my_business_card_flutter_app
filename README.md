@@ -6,7 +6,7 @@ This app allows you to update your personal details to create a business card in
 
 ### Prerequisites
 * IntelliJ/Android Studio IDE
-* AVD Android Simulator Manager
+* AVD Android Virtual Device Simulator Manager
 * Android SDK
 * Flutter SDK + IDE Plugin
 * DART SDK + IDE Plugin
